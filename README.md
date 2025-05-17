@@ -14,3 +14,8 @@ HTML
 6. Make a Search Engine(Links to Google)
 7. Images
 8. Internal and External CSS
+
+Javascript
+-----------
+1. String addition
+2. Event Listeners
